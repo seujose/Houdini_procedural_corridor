@@ -4,6 +4,7 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 /Assets/HDA/backup/
+/Assets/HDA/HoudiniEngineAssetCache/
 /Assets/Plugins/
 /Houdini/backup/
 /Houdini/hda/backup/
@@ -75,3 +76,4 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+

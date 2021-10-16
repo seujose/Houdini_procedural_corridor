@@ -11,13 +11,13 @@ GameObject:
   - component: {fileID: 6826459441069034097}
   - component: {fileID: 7571587971125020116}
   - component: {fileID: 5690113880028082462}
-  - component: {fileID: 8196550644619241909}
+  - component: {fileID: 596982288735578553}
   m_Layer: 0
   m_Name: cornerOut
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &6826459441069034097
 Transform:
@@ -40,7 +40,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6194600257204539595}
-  m_Mesh: {fileID: 5761739814090621300, guid: 843f3730d646bcf41809eb7f3e9a0614, type: 3}
+  m_Mesh: {fileID: 9003375228716942024, guid: 03e6082dba47b8541a6a2eb4fc72e0e6, type: 3}
 --- !u!23 &5690113880028082462
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -82,7 +82,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &8196550644619241909
+--- !u!64 &596982288735578553
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -95,4 +95,4 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 5761739814090621300, guid: 843f3730d646bcf41809eb7f3e9a0614, type: 3}
+  m_Mesh: {fileID: 9003375228716942024, guid: 03e6082dba47b8541a6a2eb4fc72e0e6, type: 3}

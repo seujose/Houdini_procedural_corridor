@@ -11,13 +11,13 @@ GameObject:
   - component: {fileID: 4185945572021049062}
   - component: {fileID: 988730078493940035}
   - component: {fileID: 3052415310636313993}
-  - component: {fileID: 4955937628015416063}
+  - component: {fileID: 8984444764474463464}
   m_Layer: 0
   m_Name: cornerIn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4185945572021049062
 Transform:
@@ -82,7 +82,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4955937628015416063
+--- !u!64 &8984444764474463464
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
