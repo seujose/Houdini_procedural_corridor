@@ -5,10 +5,15 @@
 #
 /Assets/HDA/backup/
 /Assets/HDA/HoudiniEngineAssetCache/
+Assets/HoudiniEngineAssetCache/Working/
 /Assets/Plugins/
 /Houdini/backup/
+/Houdini/HoudiniEngineAssetCache/
 /Houdini/hda/backup/
 /Assets/StarterAssets/
+/Assets/Scenes/SampleScene/
+/Assets/Scenes/temp/
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -76,4 +81,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
 
